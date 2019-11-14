@@ -1,0 +1,53 @@
+/* Selector {
+    property: value;
+}*/
+body {
+    background-image: url(backimage.jpg);
+    background-size: cover;
+}
+
+h2, p {
+    color: #C93B3F;
+    text-align: center;
+    border: 5px solid rgb(203, 123, 60);
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+p {
+    color: green;
+    line-height: 40px;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+    font-size: 380;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext{
+    border: 5px dashed rgb(129, 189, 80);
+}
+
+.active{
+    color: rgb(235, 57, 57);
+}
+
+#div1{
+    background: rgb(123, 123, 211, 0.2);
+}
+
+#div2{
+    background: rgba(216, 135, 13, 0.2);
+}

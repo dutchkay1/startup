@@ -1,0 +1,21 @@
+CSS
+
+https://flexboxfroggy.com/  (a game used to learn flexbox in css)
+
+http://www.paletton.com/  (A site used to get different color pallets with their RGB, though vscode does the trick quite well)
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/  (used to know different CSS styles and tricks)
+
+https://specificity.keegan.st/   (To know the specificity weight and value of each CSS code according to value)
+
+https://fonts.google.com/?selection.family=Pacifico  (google fonts; used to select your fonts directly from google API)
+
+https://caniuse.com/  (ued to know if the css being ued is supported by all browsers with global statisticsdisplay)
+
+https://fontawesome.com/?from=io   (fonts use)
+
+https://daneden.github.io/animate.css/  (different CSS aninamations you can add to your websites just like the name says)
+
+https://www.creative-tim.com/ (get templates designed with modified bootstrap)
+
+https://codepen.io/pen/  (n online working enviroment for coding HTML, CSS and JS)

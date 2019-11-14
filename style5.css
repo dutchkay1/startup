@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.gfg { 
+    width:auto; 
+    text-align:center; 
+    padding:20px; 
+} 
+img { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain; 
+} 
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: sans-serif, 'Times New Roman';
+}
+
+.btn-sm {
+    padding: 1rem 2rem;
+}
+
+.btn-primary {
+    background-color: rgb(156, 64, 223);
+    *border-color: rgb(156, 64, 223);
+}
+
+.btn-primary:hover {
+background-color: rgb(144, 33, 223);
+border-color: rgb(156, 64, 223);
+}
